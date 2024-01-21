@@ -13,15 +13,10 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
 
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
@@ -31,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution GitHub URL: [Add solution URL here](https://github.com/amigos81/social-links-profile-main.git)
+- Live Site URL: [Add live site URL here](https://amigos81.github.io/social-links-profile-main/)
 
 ## My process
 
@@ -47,7 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Edward Quisocala ](#)
+- Frontend Mentor - [@amigos81](https://www.frontendmentor.io/profile/amigos81)
 
